@@ -1,0 +1,31 @@
+==================================================
+CLASSIFICATION METRICS RESULTS
+==================================================
+
+Overall Metrics:
+--------------------------------------------------
+Accuracy: 0.9967
+
+Precision (Micro): 0.9967
+Precision (Macro): 0.9902
+
+Recall (Micro): 0.9967
+Recall (Macro): 0.9980
+
+F1 Score (Micro): 0.9967
+F1 Score (Macro): 0.9940
+
+==================================================
+Per-Class Metrics:
+==================================================
+
+Class 0:
+  Precision: 0.9804
+  Recall:    1.0000
+  F1 Score:  0.9901
+
+Class 1:
+  Precision: 1.0000
+  Recall:    0.9960
+  F1 Score:  0.9980
+
